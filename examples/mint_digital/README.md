@@ -1,6 +1,10 @@
 # MintDigital
 
+This is
 [https://medium.com/mint-digital/stateful-websockets-with-elixirs-genstage-a29eab420c0d]()
+but without Phoenix
+
+seems to be inspired by [https://github.com/elixir-lang/gen_stage/blob/master/examples/rate_limiter.exs]()
 
 Lame usage:
 * Open iex -S mix: `{_, pid} = MintDigital.join(:dummy)`
